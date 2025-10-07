@@ -1,0 +1,10 @@
+unemployment-analysis/
+│
+├── data_loader.py
+├── data_cleaner.py
+├── exploratory_analysis.py
+├── covid_impact.py
+├── seasonal_analysis.py
+├── policy_insights.py
+├── main.py
+└── requirements.txt
